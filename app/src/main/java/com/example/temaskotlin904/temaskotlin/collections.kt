@@ -15,8 +15,6 @@ fun main() {
     val readOnlyFiguras = listOf("Cuadrado", "Triángulo", "Círculo")
     println(readOnlyFiguras)  // Imprime la lista
 
-    // ERROR: 'mutableFiguras' no es un tipo válido
-    // Debería ser:
     var figura: MutableList<String> = mutableListOf("Cuadrado", "Triángulo", "Círculo")
 
     // Lista inmutable (nueva variable con el mismo contenido)
@@ -27,8 +25,6 @@ fun main() {
 
     // Conjunto inmutable (sin duplicados)
     val frutas = setOf("Manzana", "Banana", "Naranja")
-
-    // ERROR: falta el signo igual (=)
     val frutas2 = mutableSetOf("Manzana", "Banana", "Naranja")
 
     // Mapa inmutable
