@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">TemasKotlin904</string>
+    <string name="app_name"></string>
+    <string name="descripcion_logo_cinepolis">Logo Cinepolis app</string>
+    <string name="person_icon_description">Icono de persona</string>
 </resources>
