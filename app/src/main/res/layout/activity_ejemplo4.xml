@@ -26,6 +26,7 @@
         android:layout_marginTop="92dp"
         android:ems="10"
         android:inputType="number"
+        android:hint="0"
         android:text=""
         app:layout_constraintHorizontal_bias="0.497"
         app:layout_constraintEnd_toEndOf="parent"
@@ -48,10 +49,6 @@
         app:layout_constraintTop_toBottomOf="@+id/ed1"
         app:layout_constraintVertical_bias="0.0"
         >
-
         </Button>
-
-
-
 
 </androidx.constraintlayout.widget.ConstraintLayout>

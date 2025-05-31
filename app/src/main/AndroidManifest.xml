@@ -13,49 +13,35 @@
         android:theme="@style/Theme.TemasKotlin904"
         tools:targetApi="31">
         <activity
-            android:name=".temaskotlin.Tema4.Ejemplo4Activity"
+            android:name=".temaskotlin.PracticaDiccionarios.GuardarActivity"
             android:exported="false" />
+        <activity
+            android:name=".temaskotlin.PracticaDiccionarios.BuscarActivity"
+            android:exported="false" />
+        <activity
+            android:name=".temaskotlin.PracticaDiccionarios.DiccionarioActivity"
+            android:exported="true" />
+        <activity
+            android:name=".temaskotlin.Tema4.Ejemplo4Activity"
+            android:exported="true" />
         <activity
             android:name=".temaskotlin.Tema3.Ejemplo3Activity"
-            android:exported="false" />
+            android:exported="true" />
         <activity
             android:name=".temaskotlin.Tema2app.Ejemplo2Activity"
-            android:exported="false" />
+            android:exported="true" />
         <activity
             android:name=".temaskotlin.App.MainActivity"
-            android:exported="true">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
-        </activity>
+            android:exported="true" />
         <activity
             android:name=".temaskotlin.Cine.MainActivity"
-            android:exported="true">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
-        </activity>
+            android:exported="true" />
         <activity
             android:name=".temaskotlin.App.Ejemplo2Activity"
-            android:exported="false"
-            android:theme="@style/Theme.AppCompat.DayNight" />
+            android:exported="true" />
         <activity
             android:name=".temaskotlin.App.Ejemplo1Activity"
-            android:exported="true"
-            android:theme="@style/Theme.AppCompat.DayNight">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
-
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
-        </activity>
-        <activity
-            android:name=".temaskotlin.Tema4.Ejemplo4Activity"
-            android:exported="false" />
+            android:exported="true" />
     </application>
 
 </manifest>

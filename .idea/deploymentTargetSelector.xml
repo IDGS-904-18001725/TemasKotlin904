@@ -5,19 +5,19 @@
       <SelectionState runConfigName="app">
         <option name="selectionMode" value="DROPDOWN" />
       </SelectionState>
-      <SelectionState runConfigName="Ejemplo2Activity">
+      <SelectionState runConfigName="DiccionarioActivity">
         <option name="selectionMode" value="DROPDOWN" />
       </SelectionState>
-      <SelectionState runConfigName="Ejemplo3Activity">
+      <SelectionState runConfigName="DiccionarioActivity (1)">
         <option name="selectionMode" value="DROPDOWN" />
       </SelectionState>
-      <SelectionState runConfigName="Ejemplo3Activity (1)">
+      <SelectionState runConfigName="DiccionarioActivity (2)">
         <option name="selectionMode" value="DROPDOWN" />
       </SelectionState>
-      <SelectionState runConfigName="Ejemplo4Activity">
+      <SelectionState runConfigName="DiccionarioActivity (3)">
         <option name="selectionMode" value="DROPDOWN" />
       </SelectionState>
-      <SelectionState runConfigName="Ejemplo4Activity (1)">
+      <SelectionState runConfigName="DiccionarioActivity (4)">
         <option name="selectionMode" value="DROPDOWN" />
       </SelectionState>
     </selectionStates>
